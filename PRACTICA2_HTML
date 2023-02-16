@@ -1,1 +1,41 @@
-.
+
+<html>
+	<head>
+		<title>Comparte tus viajes</title>
+	</head>
+	<body>
+		<h1>Comparte tus viajes</h1>
+
+		<h2>Nueva York - Central Park</h2>
+		<ul>
+			<li><a href="" target="_blank">Descripción</a></li>
+            <li><a href="" target="_blank">Fotos relacionadas</a></li>
+            <li><a href="" target="_blank">Comentarios</a></li>
+		</ul>
+
+        <h3>Descripción</h3>
+		<p>Foto de Randy Connolly</p>
+		<p>Esta foto del Estanque del Conservatorio en <a href="" target="_blank">Central Park</a> en <a href="" target="_blank">Ciudad de Nueva York</a> fue Tomada en Octubre 22, 2021 con una cámara Canon EOS 30D.</p>
+
+		<div>
+			<a href="images/large-central-park.jpg">
+			<img src="images/central-park.jpg" style="margin-left: 40px;">
+			</a>
+			<i><p style="margin-left: 40px;">Estanque del Conservatorio en Central Park</p></i>
+		</div>
+
+		<p>Compartir: <img src="images/social/email_16.png"> <img src="images/social/rss_16.png"> <img src="images/social/twitter_16.png"> <img src="images/social/facebook_16.png"> <img src="images/social/flickr_16.png">
+        <h3>Fotos relacionadas</h3>
+		<a href="images/related-large1.jpg"><img src="images/related-square1.jpg"></a> <a href="images/related-large2.jpg"><img src="images/related-square2.jpg"></a> <a href="images/related-large3.jpg"><img src="images/related-square3.jpg"></a>
+
+        <h2>Reseñas</h2>
+		<p>Por Ricardo 15 Septiembre ,2021</p>
+		<p>Tranquilo con el HDR amigo</p>
+        <hr>
+		<p>Por Susana en 1 Octubre, 2021</p>
+		<p>Amo Central Park</p>
+        <hr>
+        <a href="" target="_blank">Inicio</a> | <a href="" target="_blank">Navegación</a> | <a href="" target="_blank">Buscar</a>
+        <p><i>Copyright © 2022 Comparte Tus Viajes</i></p>
+	</body>
+</html>
